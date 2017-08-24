@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="IKAnalyzer2.0.2OBF">
+    <CLASSES>
+      <root url="jar://D:/Program Files/JetBrains/51CTO下载-lucene-core-2.4.1.jarje-analysis-1.5.3.jar/IKAnalyzer2.0.2OBF.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/51CTO下载-lucene-core-2.4.1.jarje-analysis-1.5.3.jar/je-analysis-1.5.3.jar!/" />
+      <root url="jar://D:/Program Files/JetBrains/51CTO下载-lucene-core-2.4.1.jarje-analysis-1.5.3.jar/lucene-core-2.4.1.jar!/" />
+      <root url="file://D:/Program Files/JetBrains/lucene-6.6.0" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/apache-lucene-analyzers.jar/apache-lucene-analyzers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Program Files/JetBrains/lucene-6.6.0" recursive="false" />
+  </library>
+</component>
